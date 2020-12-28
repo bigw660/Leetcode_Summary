@@ -11,6 +11,9 @@ class Solution:
         for i in range(num + 1):
             dp[i] = dp[i >> 1] + (i & 1)
         return dp
+        
+# Time complexity: O(N)
+# Space complexity: O(N)
 ```
 
 ## Java
