@@ -12,6 +12,9 @@ class Solution:
             else:
                 d[num] = index
         return [-1, -1]
+        
+# Time complexity: O(N)
+# Space complexity: O(N)
 ```
 
 ## Java:
