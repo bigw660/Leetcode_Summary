@@ -27,3 +27,8 @@
 | ID | Problem                                                         | Difficulty   | Tags              |
 | ---- | ------------------------------------------------------------ | ------ | ----------------- |
 | 406    | [Queue Reconstruction by Height](https://github.com/bigw660/Leetcode_Summary/blob/main/Greedy/406_Queue_Reconstruction_by_Height.md)       | Medium   | Sort |
+
+#### [Math](https://github.com/bigw660/Leetcode_Summary/tree/main/Math)
+| ID | Problem                                                         | Difficulty   | Tags              |
+| ---- | ------------------------------------------------------------ | ------ | ----------------- |
+| 754    | [Reach a Number](https://github.com/bigw660/Leetcode_Summary/blob/main/Math/754_Reach_a_Number.md)       | Medium   | Math |
