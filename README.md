@@ -17,6 +17,9 @@
 | 617    | [Merge Two Binary Trees](https://github.com/bigw660/Leetcode_Summary/blob/main/Tree/617_Merge_Two_Binary_Trees.md)       | Medium   | Divide and Conquer |
 
 
-
+#### [Bit Manipulation](https://github.com/bigw660/Leetcode_Summary/tree/main/Bit_Manipulation)
+| ID | Problem                                                         | Difficulty   | Tags              |
+| ---- | ------------------------------------------------------------ | ------ | ----------------- |
+| 338    | [Counting Bits](https://github.com/bigw660/Leetcode_Summary/blob/main/Bit_Manipulation/338_Counting_Bits.md)       | Medium   | DP |
 
 
