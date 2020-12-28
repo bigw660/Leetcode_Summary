@@ -1,4 +1,6 @@
 <https://leetcode.com/problems/counting-bits/>
+## Problem
+![Problem](https://github.com/bigw660/Leetcode_Summary/blob/main/Images/338.png)
 
 ## Analysis
 ![Analysis](https://github.com/bigw660/Leetcode_Summary/blob/main/Images/338_Analysis.png)
