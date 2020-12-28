@@ -15,6 +15,7 @@
 | ID | Problem                                                         | Difficulty   | Tags              |
 | ---- | ------------------------------------------------------------ | ------ | ----------------- |
 | 617    | [Merge Two Binary Trees](https://github.com/bigw660/Leetcode_Summary/blob/main/Tree/617_Merge_Two_Binary_Trees.md)       | Medium   | Divide and Conquer |
+| 104    | [Maximum Depth of Binary Tree](https://github.com/bigw660/Leetcode_Summary/blob/main/Tree/104_Maximum_Depth_of_Binary_Tree.md)       | Easy   | Divide and Conquer |
 
 
 #### [Bit Manipulation](https://github.com/bigw660/Leetcode_Summary/tree/main/Bit_Manipulation)
