@@ -1,6 +1,6 @@
 <https://leetcode.com/problems/two-sum/> 
 
-## Python Code:
+## Python:
 ```python
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
@@ -11,4 +11,8 @@ class Solution:
             else:
                 d[v] = i
         return [-1, -1]
+```
+
+## Java:
+```java
 ```
