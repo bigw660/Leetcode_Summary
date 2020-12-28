@@ -14,6 +14,9 @@ class Solution:
             # the p[1] that it will have p[1] many taller people before him.
             result.insert(p[1], p)
         return result
+        
+# Time complexity: O(N^2) -> similar to insertion sort
+# Space complexity: O(Height)
 ```
 
 ## Java
