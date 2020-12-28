@@ -1,7 +1,7 @@
 <https://leetcode.com/problems/counting-bits/>
 
 ## Analysis
-![Analysis 338](https://github.com/bigw660/Leetcode_Summary/blob/main/Images/%5BAnalysis%5D_338.png)
+![Analysis](https://github.com/bigw660/Leetcode_Summary/blob/main/Images/338_Analysis.png)
 
 ## Python 
 ```python
