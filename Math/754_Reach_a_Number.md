@@ -26,6 +26,6 @@ class Solution {
     }
 }
 
-# Time complexity: O(sqrt(target))
-# Memory complexity: O(1)
+// Time complexity: O(sqrt(target))
+// Memory complexity: O(1)
 ```
