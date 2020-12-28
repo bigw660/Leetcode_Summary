@@ -1,4 +1,4 @@
-<https://leetcode.com/problems/reach-a-number//> 
+<https://leetcode.com/problems/reach-a-number/> 
 
 ## Python:
 ```python
