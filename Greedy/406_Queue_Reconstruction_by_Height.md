@@ -16,7 +16,7 @@ class Solution:
         return result
         
 # Time complexity: O(N^2) -> similar to insertion sort
-# Space complexity: O(Height)
+# Space complexity: O(1)
 ```
 
 ## Java
