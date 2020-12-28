@@ -6,7 +6,7 @@
 #### K-SUM
 | ID | Problem                                                         | Difficulty   | Tags              |
 | ---- | ------------------------------------------------------------ | ------ | ----------------- |
-| 1    | [Two   Sum    ](https://leetcode.com/problems/two-sum)       | easy   | python、java、c++ |
+| 1    | [Two   Sum    ](https://github.com/bigw660/Leetcode_Summary/blob/main/Array/1_Two_Sum.md)       | easy   | K-Sum, Hash Table |
 
 
 #### 区间问题
