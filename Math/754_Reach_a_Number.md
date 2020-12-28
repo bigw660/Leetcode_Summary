@@ -25,6 +25,7 @@ class Solution {
         return i;
     }
 }
-```
+
 # Time complexity: O(sqrt(target))
 # Memory complexity: O(1)
+```
