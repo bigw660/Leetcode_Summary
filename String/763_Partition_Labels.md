@@ -3,7 +3,7 @@
 ```python
 class Solution:
     def partitionLabels(self, S: str) -> List[int]:
-        d = {char : index for index, char in enumerate(S)} # key: num; value: last index of the num
+        d = {char : index for index, char in enumerate(S)} # {num : last index of the num}
         right_most_index = 0
         start_index = 0
         result = []
