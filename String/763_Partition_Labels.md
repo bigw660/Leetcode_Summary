@@ -16,6 +16,9 @@ class Solution:
                 # update the starting index
                 start_index = index + 1
         return result
+        
+# Time complexity: O(N)
+# Space complexity: O(N)
 ```
 
 ## Java
