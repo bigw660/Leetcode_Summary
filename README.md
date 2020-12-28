@@ -6,9 +6,10 @@
 | 1    | [Two   Sum    ](https://github.com/bigw660/Leetcode_Summary/blob/main/Array/1_Two_Sum.md)       | easy   | K-Sum, Hash Table |
 
 
-#### 区间问题
+#### [String](https://github.com/bigw660/Leetcode_Summary/tree/main/String)
 | ID | Problem                                                         | Difficulty   | Tags              |
 | ---- | ------------------------------------------------------------ | ------ | ----------------- |
+| 763    | [Partition Labels](https://github.com/bigw660/Leetcode_Summary/blob/main/String/763_Partition_Labels.md)       | Medium   | Hash Table |
 
 #### 子数组类题目
 | ID | Problem                                                         | Difficulty   | Tags              |
