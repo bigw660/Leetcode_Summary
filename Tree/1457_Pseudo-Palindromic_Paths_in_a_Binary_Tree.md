@@ -10,7 +10,7 @@
 
 ## Java:
 ### Thoughts:
- - Traverse the tree to get all paths from root to leave
+ - Traverse the tree to get all paths from root to leave (BFS/DFS, pre-order/in-order/post-order)
  - Check if each path is a pseudo-palindromic path
  
 A pseudo-palindromic path is a path that contains at most 1 odd-frequency number. Here are two ways to check it:
