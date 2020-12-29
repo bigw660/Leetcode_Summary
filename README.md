@@ -27,6 +27,7 @@
 | ID | Problem                                                         | Difficulty   | Tags              |
 | ---- | ------------------------------------------------------------ | ------ | ----------------- |
 | 406    | [Queue Reconstruction by Height](https://github.com/bigw660/Leetcode_Summary/blob/main/Greedy/406_Queue_Reconstruction_by_Height.md)       | Medium   | Sort |
+| 330    | [Patching Array](https://github.com/bigw660/Leetcode_Summary/blob/main/Greedy/330_Patching_Array.md)       | Hard   | Greedy, Math |
 
 #### [Math](https://github.com/bigw660/Leetcode_Summary/tree/main/Math)
 | ID | Problem                                                         | Difficulty   | Tags              |
