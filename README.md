@@ -20,6 +20,7 @@
 | 617    | [Merge Two Binary Trees](https://github.com/bigw660/Leetcode_Summary/blob/main/Tree/617_Merge_Two_Binary_Trees.md)       | Medium   | Divide and Conquer |
 | 104    | [Maximum Depth of Binary Tree](https://github.com/bigw660/Leetcode_Summary/blob/main/Tree/104_Maximum_Depth_of_Binary_Tree.md)       | Easy   | Divide and Conquer |
 |1457    | [Pseudo-Palindromic Paths in a Binary Tree](https://github.com/bigw660/Leetcode_Summary/blob/main/Tree/1457_Pseudo-Palindromic_Paths_in_a_Binary_Tree.md)  | Medium | BFS/DFS, Bit Manipulation |
+| 98 | [Validate Binary Search Tree](https://github.com/bigw660/Leetcode_Summary/blob/main/Tree/98_Validate_Binary_Search_Tree.md) | Medium | Recursion, DFS |
 
 
 #### [Bit Manipulation](https://github.com/bigw660/Leetcode_Summary/tree/main/Bit_Manipulation)
