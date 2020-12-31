@@ -4,6 +4,7 @@
 | ID | Problem                                                         | Difficulty   | Tags              |
 | ---- | ------------------------------------------------------------ | ------ | ----------------- |
 | 1    | [Two   Sum    ](https://github.com/bigw660/Leetcode_Summary/blob/main/Array/1_Two_Sum.md)       | Easy   | K-Sum, Hash Table |
+| 15   | [3Sum](https://github.com/bigw660/Leetcode_Summary/blob/main/Array/15_3Sum.md) | Medium | Sort, Bi-directional Search|
 |289   | [Game of Life](https://github.com/bigw660/Leetcode_Summary/blob/main/Array/289_Game_of_Life.md) | Medium | Trick |
 
 
