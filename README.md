@@ -15,6 +15,7 @@
 | ---- | ------------------------------------------------------------ | ------ | ----------------- |
 | 763    | [Partition Labels](https://github.com/bigw660/Leetcode_Summary/blob/main/String/763_Partition_Labels.md)       | Medium   | Hash Table |
 | 10     | [Regular Expression Matching](https://github.com/bigw660/Leetcode_Summary/blob/main/String/10_Regular_Expression_Matching.md)     | Hard  | DP |
+| 32 | [Longest Valid Parentheses](https://github.com/bigw660/Leetcode_Summary/blob/main/String/32_Longest_Valid_Parentheses.md) | Hard | Stack, DP |
 
 #### [Tree](https://github.com/bigw660/Leetcode_Summary/tree/main/Tree)
 | ID | Problem                                                         | Difficulty   | Tags              |
