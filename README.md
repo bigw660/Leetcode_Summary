@@ -10,6 +10,7 @@
 | 239 | [Sliding Window Maximum](https://github.com/bigw660/Leetcode_Summary/blob/main/Array/239_Sliding_Window_Maximum.md) | Hard | Monotonic Queue |
 | 300 | [Longest Increasing Subsequence](https://github.com/bigw660/Leetcode_Summary/blob/main/Array/300_Longest_Increasing_Subsequence.md) | Medium | DP, Binary Search |
 | 1713 | [Minimal Operations to Make a Subsequence](https://github.com/bigw660/Leetcode_Summary/blob/main/Array/1713_Minimum_Operations_to_Make_a_Subsequence.md) | Hard | DP, Binary Search |
+| 23 | [Merge k Sorted Lists](https://github.com/bigw660/Leetcode_Summary/blob/main/Array/239_Sliding_Window_Maximum.md) | Hard | Heap, Divide and Conquer|
 
 
 #### [String](https://github.com/bigw660/Leetcode_Summary/tree/main/String)
