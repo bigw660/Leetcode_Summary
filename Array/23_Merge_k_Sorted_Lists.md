@@ -60,3 +60,6 @@ class Solution:
 # Time complexity: Nlog(N)
 # Space complexity: N
 ```
+
+## Java
+```java
