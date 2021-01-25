@@ -34,10 +34,29 @@ class Solution:
             l2.next = self.mergeList(l1, l2.next)
             return l2
 
+# Time complexity: Nlog(N)
+# Space complexity: N
+```
 ### Solution 1: Divide and conquer
 ```python
-
+class Solution:
+    def mergeKLists(self, lists: List[ListNode]) -> ListNode:
+        heap = []
+        for i in range(len(lists)):
+            if lists[i]:
+                heapq.heappush(heap, (lists[i].val, i))
+                lists[i] = lists[i].next
+        dummy = ListNode()
+        cur = dummy
+        while heap:
+            value, index = heapq.heappop(heap)
+            cur.next = ListNode(value)
+            cur = cur.next
+            if lists[index]:
+                heapq.heappush(heap, (lists[index].val, index))
+                lists[index] = lists[index].next
+        return dummy.next
         
-# Time complexity: 
-# Space complexity: 
+# Time complexity: Nlog(N)
+# Space complexity: N
 ```
