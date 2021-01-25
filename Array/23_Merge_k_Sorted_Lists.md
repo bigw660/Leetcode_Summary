@@ -34,6 +34,7 @@ class Solution:
             l2.next = self.mergeList(l1, l2.next)
             return l2
 
+### Solution 1: Divide and conquer
 ```python
 
         
